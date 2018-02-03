@@ -1,0 +1,27 @@
+Greetings. This is my programming assignment based on the theme of "Reflections"
+It is a 2D tower defense game, where you you can buy and upgrade tower with the end goal of surviving as much as you can.
+A special mechanic to stand out: Any towers you buy need to be activated with another projectile that is emitted only by the "Player Objective"
+That projectile can be redirectioned/multiplied using the Prism and Mirror Towers.
+
+Controls are simple. Only left click since this is can also be played on a touch screen device (Tested on Android)
+While in game, press on a tower to open the upgrade menu for that tower or on an empty space to open the in game menu. 
+Click and hold for more than 0.2 seconds to be able to target where you want your Player Objective to shoot.
+
+The game was done in C++ using Unreal Engine, created and distributed by Epic Games.
+
+I claim no copyright over the assets downloaded here and used as sprites for towers.
+https://www.vecteezy.com/vector-art/118748-colorful-gems-vector-set
+
+I also claim no copyright over the algorithm that I used to generate the number of enemies each wave.
+http://oeis.org/A280998
+
+I must thank to my friends who created the general concept for the levels and named them. I feel it is right to give them credit for them here.
+
+MV Suicide by Catalina Diana Craciun
+Juan by Bodgan Alex Popescu
+Infinity Hourglass by Maria Maier
+
+Thank you for taking time to look into my assignment and I hope I will attend to your university soon!
+
+Sincerely,
+Popoviciu Adrian Marian.
